@@ -1,0 +1,14 @@
+.new-release-song-container {
+  max-width: 150px;
+  margin: 10px;
+}
+.new-releases-img {
+  height: 90px;
+  width: 90px;
+  border-radius: 10px;
+}
+.album-name {
+  color: #000;
+  font-size: 12px;
+  text-align: center;
+}

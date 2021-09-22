@@ -1,0 +1,13 @@
+.new-releases-bg-container {
+  margin-top: 40px;
+}
+
+.new-releases-content-container {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.title {
+  font-size: 14px;
+  color: #b8b8b8;
+}
